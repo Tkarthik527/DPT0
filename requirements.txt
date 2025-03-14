@@ -1,0 +1,3 @@
+pyspark[sql]
+plotly  # to plot your data, you can install plotly together.
+pyspark[connect]
